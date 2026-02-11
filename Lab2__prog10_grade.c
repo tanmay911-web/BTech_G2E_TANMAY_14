@@ -19,7 +19,7 @@ int main()
     {
         printf("Grade: C\n");
     }
-    else (percentage >= 0);
+    else if (percentage >= 0)
     {
         printf("Grade: D\n");
     }
