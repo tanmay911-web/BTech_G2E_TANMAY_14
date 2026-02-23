@@ -8,7 +8,7 @@ int main() {
     printf("Fibonacci Series: ");
 
     if (n <= 0) {
-        printf("Please enter a positive integer.\\n");
+        printf("Please enter a positive integer.\n");
     } else {
         for (i = 0; i < n; i++) {
             printf("%d ", first);
